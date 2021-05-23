@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LOGO</string>
+    <string name="Prediction">
+        "  We predict suitable career paths based on\n"
+        "                     Artificial Intelligence.\n"
+
+    </string>
+    <string name="AskExpert">
+        "       Get your queries sorted out from top\n"
+        "                  faculties and consultants.\n"
+    </string>
+</resources>
