@@ -22,11 +22,11 @@ public class Career_Predictor extends AppCompatActivity {
       TextInputLayout subjects2;
       AutoCompleteTextView allsubjects2;
 
-    TextInputLayout subjects3;
-    AutoCompleteTextView allsubjects3;
+      TextInputLayout subjects3;
+      AutoCompleteTextView allsubjects3;
 
-    TextInputLayout subjects4;
-    AutoCompleteTextView allsubjects4;
+      TextInputLayout subjects4;
+      AutoCompleteTextView allsubjects4;
 
       String[] sub;
       ArrayAdapter adapter;
