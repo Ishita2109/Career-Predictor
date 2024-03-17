@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Predictor</string>
+    <string-array name="spinner1_items">
+        <item> Select a subject </item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Maths</item>
+        <item>Computer Science</item>
+        <item>Business Studies</item>
+        <item>Accounts</item>
+        <item>Economics</item>
+        <item>Physical Education</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Political Science</item>
+        <item>Sociology</item>
+        <item>Psychology</item>
+
+    </string-array>
+
+</resources>
